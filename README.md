@@ -1,5 +1,4 @@
 # Hi there 👋 我叫姚祺，你们好！
-# 👋 Hello, World! / 你好，世界！👋
 
 Welcome to my GitHub profile! 欢迎来到我的GitHub主页！
 
